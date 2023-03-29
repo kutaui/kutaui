@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Tailwind,React,PHP<br>
+🌱 I’m currently learning Tailwind,React,GO<br>
 
 
 ## 🌐 Socials:

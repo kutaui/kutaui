@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning PostgreSQL,React,GO<br>
+🌱 I’m currently learning PostgreSQL,Next.js,GO<br>
 
 
 ## 🌐 Socials:

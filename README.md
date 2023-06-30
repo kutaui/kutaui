@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning PostgreSQL,Typescript,Next.js<br>
+🌱 I’m currently learning PostgreSQL, Typescript, Golang<br>
 
 
 ## 🌐 Socials:

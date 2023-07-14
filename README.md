@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning GraphQL, Testing, Storybook.<br>
+🌱 I’m currently learning GraphQL, Jest, Storybook & Swagger.<br>
 
 
 ## 🌐 Socials:

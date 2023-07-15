@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning GraphQL, Jest, CI-CD.<br>
+🌱 I’m currently learning GraphQL, Jest.<br>
 
 
 ## 🌐 Socials:

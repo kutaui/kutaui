@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning GraphQL, Jest.<br>
+🌱 I’m currently learning GraphQL, Microservices.<br>
 
 
 ## 🌐 Socials:

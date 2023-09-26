@@ -10,6 +10,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kutaui&icon=8&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kutaui&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 

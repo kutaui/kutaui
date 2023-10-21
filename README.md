@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning React Native, NestJS.<br>
+✍️ I write at https://medium.com/@kutaui
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React Native, NestJS.<br>
+🌱 I’m currently learning React Native, Golang.<br>
 ✍️ I write at https://medium.com/@kutaui
 
 

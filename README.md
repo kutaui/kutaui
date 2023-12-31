@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React Native, Websocket .<br>
+🌱 I’m currently learning Vue .<br>
 ✍️ I write at https://medium.com/@kutaui
 
 

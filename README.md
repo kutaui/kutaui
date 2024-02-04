@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Vue .<br>
+🌱 I’m currently learning Svelte.<br>
 ✍️ I write at https://medium.com/@kutaui
 
 
